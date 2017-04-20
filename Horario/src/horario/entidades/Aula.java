@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package horario;
+package horario.entidades;
 
 import javafx.beans.property.IntegerProperty;
 import javafx.beans.property.SimpleIntegerProperty;
@@ -14,22 +14,22 @@ import javafx.beans.property.SimpleIntegerProperty;
  */
 public class Aula {
   
-  private IntegerProperty numero;
+  private int numero;
   private ExperienciaEducativa [] experiencias;
   
   public Aula () {}
   
-  public Aula (Integer numero) {
-    this.numero = new SimpleIntegerProperty(numero);
+  public Aula (int numero) {
+    this.numero = numero;
     experiencias = new ExperienciaEducativa[20];
   }
   
-  public void setNumero (Integer numero) {
-    this.numero = new SimpleIntegerProperty(numero);
+  public void setNumero (int numero) {
+    this.numero = numero;
   }
   
-  public Integer getNumero () {
-    return numero.get();
+  public int getNumero () {
+    return numero;
   }
   
   public ExperienciaEducativa getExperienciasEducativas (int indice) {

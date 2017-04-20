@@ -5,6 +5,8 @@
  */
 package horario;
 
+import horario.cli.Menu;
+
 /**
  *
  * @author andres
