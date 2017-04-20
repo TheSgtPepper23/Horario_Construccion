@@ -5,42 +5,37 @@
  */
 package horario.entidades;
 
-import javafx.beans.property.IntegerProperty;
-import javafx.beans.property.SimpleIntegerProperty;
-import javafx.beans.property.SimpleStringProperty;
-import javafx.beans.property.StringProperty;
-
 /**
  *
  * @author andres
  */
 public class Horario {
-  private StringProperty carrera;
-  private IntegerProperty semestre;
+  private String carrera;
+  private int semestre;
   private ExperienciaEducativa[] experiencias;
   
   public Horario() {}
   
-  public Horario (String carrera, Integer semestre) {
-    this.carrera = new SimpleStringProperty(carrera);
-    this.semestre = new SimpleIntegerProperty(semestre);
+  public Horario (String carrera, int semestre) {
+    this.carrera = carrera;
+    this.semestre = semestre;
     this.experiencias = new ExperienciaEducativa[10];
   }
   
   public void setCarrera (String carrera) {
-    this.carrera = new SimpleStringProperty(carrera);
+    this.carrera = carrera;
   }
   
-  public StringProperty getCarrera () {
+  public String getCarrera () {
     return carrera;
   }
   
-  public void setSemestre (Integer semestre) {
-    this.semestre = new SimpleIntegerProperty(semestre);
+  public void setSemestre (int semestre) {
+    this.semestre = semestre;
   }
   
-  public Integer getSemestre () {
-    return semestre.get();
+  public int getSemestre () {
+    return semestre;
   }
   
   public void setExperienciasEducativas (ExperienciaEducativa experiencia, int indice) {

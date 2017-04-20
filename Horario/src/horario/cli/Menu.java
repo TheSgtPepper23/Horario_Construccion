@@ -22,8 +22,8 @@ public class Menu {
     System.out.println("\t\tBienvenido a su horario\n");
     System.out.println("OPCIONES\n");
     System.out.println("1.- Mostrar horario\n2.- Agregar horario\n3.- Agregar profesor" +
-        "\n4.- Agregar experiencia educativa\n5.- Mostrar materias\n6.- Mostrar profesores" +
-        "\n0.- Salir");
+        "\n4.- Agregar experiencia educativa\n5.- Agregar aula\n6.- Mostrar experiencias educativas"
+        +"\n7.- Mostrar profesores\n0.- Salir");
   }
   
   public int leerOpcion () {
@@ -37,6 +37,7 @@ public class Menu {
       case 1 :
         break;
       case 2:
+        cli.agregarHorario();
         break;
       case 3:
         cli.agregarProfe();
@@ -45,8 +46,12 @@ public class Menu {
         cli.agregarEE();
         break;
       case 5:
+        cli.agregarAula();
         break;
       case 6:
+        break;
+      case 7:
+        cli.mostrarProfesores();
         break;
       case 0:
         System.out.println("Gracias por utilizar este horario");

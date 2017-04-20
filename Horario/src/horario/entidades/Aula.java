@@ -5,9 +5,6 @@
  */
 package horario.entidades;
 
-import javafx.beans.property.IntegerProperty;
-import javafx.beans.property.SimpleIntegerProperty;
-
 /**
  *
  * @author andres
