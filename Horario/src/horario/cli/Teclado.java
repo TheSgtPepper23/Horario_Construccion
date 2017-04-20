@@ -18,16 +18,34 @@ public class Teclado {
     sc = new Scanner(System.in);
   }
   
+  /**
+   * Lee una cadena del usuario y la devuelve
+   * @return Cadena leida del usuario
+   */
   public String leerString (){
     return sc.nextLine();
   }
   
+  /**
+   * Lee un número entero y limpia el buffer del Scanner para poder leer cadenas
+   * @return El número entero que se leyó
+   */
   public int leerEntero () {
-    return sc.nextInt();
+    int entero;
+    entero = sc.nextInt();
+    sc.nextLine();
+    return entero;
   }
   
+  /**
+   * Lee un número doble y limpia el buffer del Scanner para poder leer cadenas
+   * @return El número doble leido del ususario
+   */
   public double leerDouble () {
-    return sc.nextDouble();
+    double doble;
+    doble = sc.nextDouble();
+    sc.nextLine();
+    return doble;
   }
   
   

@@ -7,7 +7,9 @@ package horario.cli;
 
 /**
  *
- * @author andres
+ * Clase que se encarga de la interacción básica con el usuario, contiene métodos para mostrar un 
+ * menú y leer la opción que elijan
+ * @author José Andrés Domínguez González
  */
 public class Menu {
   private Teclado teclado;
@@ -18,6 +20,10 @@ public class Menu {
     cli = new Cli();
   }
   
+  /**
+   * 
+   * Muestra todas las opciones disponibles para el usuario 
+   */
   public void mostrar () {
     System.out.println("\t\tBienvenido a su horario\n");
     System.out.println("OPCIONES\n");
@@ -26,13 +32,22 @@ public class Menu {
         +"\n7.- Mostrar profesores\n0.- Salir");
   }
   
+  /**
+   * Muestra un prompt y lee la opción del usuario
+   * @return El número que haya seleccionado el usuario correspondiente al menú que se muestra en el
+   * método mostrar()
+   */
   public int leerOpcion () {
     System.out.println("¿Qué acción desea realizar?");
     return teclado.leerEntero();
   }
   
+  /**
+   * Recibe un parámetro opción y ejecuta la claúsula correspondiente en un switch
+   * @param opcion valor introducido por el usuario que corresponde con un menú visual
+   * @return El mismo número que se ingresó, se utiliza para poder "ciclar" el menú
+   */
   public int realizarOpcion (int opcion) {
-    teclado.leerString();
     switch (opcion) {
       case 1 :
         break;

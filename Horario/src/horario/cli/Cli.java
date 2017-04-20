@@ -56,19 +56,7 @@ public class Cli {
       profesor.getApellidoMaterno() + "\", \"" + profesor.getCorreoE() + "\", " + 
       profesor.getTelefono()+");";
     
-    try {
-      con = new Conexion().connection();
-      s = con.createStatement();
-      s.executeUpdate(sQuery);
-    } catch (SQLException | ClassNotFoundException ex) {
-      Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, ex);
-    } finally {
-      try {
-        con.close();
-      } catch (SQLException ex) {
-        Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, ex);
-      }
-    }
+    realizaUpdate(sQuery);
     
     System.out.println("El profesor se ha agregado con éxito\n");
   }
@@ -81,49 +69,62 @@ public class Cli {
       
     experiencia = new ExperienciaEducativa();
     teclado = new Teclado();
-    int idProfesor;
+    int idProfesor = 0, nrc, idAula;
         
     System.out.println("Nombre: ");
     experiencia.setNombre(teclado.leerString());
     System.out.println("NRC: ");
-    experiencia.setNrc(teclado.leerEntero());
+    nrc = teclado.leerEntero();
+    experiencia.setNrc(nrc);
     System.out.println("Creditos: ");
     experiencia.setCreditos(teclado.leerEntero());
-    System.out.println("Desea ver la lista de profesores (s/n)");
+    System.out.println("¿Desea ver la lista de profesores? (s/n)");
     if (teclado.leerString().equals("s")) {
       mostrarProfesores();
     }
-    System.out.println("Desea agregar un nuevo profesor (s/n)");
+    System.out.println("¿Desea agregar un nuevo profesor? (s/n)");
     if (teclado.leerString().equals("s")) {
       agregarProfe();
     }
     System.out.println("Profesor:");
-    sQuery = "SELECT idProfesor FROM Profesor where nombre = \"" + teclado.leerString() + "\";";
-    try {
-      con = new Conexion().connection();
-      s = con.createStatement();
-      rs = s.executeQuery(sQuery);
-      if (rs.next()) {
-        idProfesor = rs.getInt("idProfesor");
-      }
-    } catch (SQLException | ClassNotFoundException e) {
-      Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, e);
-    } finally {
-      try {
-        con.close();
-      } catch (SQLException ex1) {
-        Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, ex1);
-      }
+    idProfesor = obtenerIDProfe(teclado.leerString());
+    System.out.println("¿Desea ver la lista de salones? (s/n)");
+    if (teclado.leerString().equals("s")) {
+      mostrarAulas();
     }
+    System.out.println("¿Desea agregar un nuevo salón? (s/n)");
+    if (teclado.leerString().equals("s")) {
+      agregarAula();
+    }
+    System.out.println("Aula: ");
+    idAula = obtenerIDAula(teclado.leerString());
+    
+    
       
     sQuery = "INSERT INTO ExperienciaEducativa (nrc, nombre, creditos) values ("+ 
         experiencia.getNrc() + ", \"" + experiencia.getNombre() + "\", " + 
         experiencia.getCreditos()+");";
       
+    realizaUpdate(sQuery);
+    
+    sQuery = "INSERT INTO ExperienciaEducativa_has_Profesor (ExperienciaEducativa_nrc, "
+        + "Profesor_idProfesor)values(" + nrc + ", " + idProfesor + ");";
+    
+    realizaUpdate(sQuery);
+    
+    sQuery = "INSERT INTO Aula_has_ExperienciaEducativa (Aula_idAula, ExperienciaEducativa_nrc"
+        + "values (" + idAula + nrc + ")";
+  }
+  
+  /**
+   * Realiza un update en la base de datos con las consulta que se le pasa
+   * @param query Consulta en sql
+   */
+  public void realizaUpdate (String query) {
     try {
       con = new Conexion().connection();
       s = con.createStatement();
-      s.executeUpdate(sQuery);
+      s.executeUpdate(query);
     } catch (SQLException | ClassNotFoundException e) {
       Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, e);
     } finally {
@@ -154,18 +155,7 @@ public class Cli {
     
     sQuery = "INSERT INTO Aula (numero) values(" + aula.getNumero() + ");";
     
-    try {
-      s = con.createStatement();
-      s.executeUpdate(sQuery);
-    } catch (SQLException e) {
-      Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, e);
-    } finally {
-      try {
-        con.close();
-      } catch (SQLException ex1) {
-        Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, ex1);
-      }
-    }
+    realizaUpdate(sQuery);
   }
   
   /**
@@ -179,25 +169,12 @@ public class Cli {
     System.out.println("Semestre:");
     horario.setSemestre(teclado.leerEntero());
     System.out.println("Carrera");
-    teclado.leerString();
     horario.setCarrera(teclado.leerString());  
     
     sQuery = "INSERT INTO Horario (semestre, carrera ) values (" + horario.getSemestre() + ", \"" + 
         horario.getCarrera() + "\");";
     
-    try {
-      con = new Conexion().connection();
-      s = con.createStatement();
-      s.executeUpdate(sQuery);
-    } catch (SQLException | ClassNotFoundException e) {
-      Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, e);
-    } finally {
-      try {
-        con.close();
-      } catch (SQLException ex1) {
-        Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, ex1);
-      }
-    }
+    realizaUpdate(sQuery);
   }
   
   /**
@@ -215,13 +192,13 @@ public class Cli {
       
       while(rs!=null && rs.next())
       {
-        System.out.println("Nombre: "+ rs.getString("nombre"));
-        System.out.println("Apellido paterno: " + rs.getString("apellidoPaterno"));
         if (rs.getString("apellidoPaterno").equals(null)) {
-          System.out.println("Apellido materno: No existe");
+          System.out.println("Nombre: "+ rs.getString("nombre") + " " + 
+              rs.getString("apellidoPaterno"));
         }
         else {
-          System.out.println("Apellido materno: " + rs.getString("apellidoMaterno"));
+          System.out.println("Nombre: "+ rs.getString("nombre") + " " + 
+              rs.getString("apellidoPaterno") + " " + rs.getString("apellido Materno"));
         }
         System.out.println("Correo Electrónico: " + rs.getString("correoE"));
         if (rs.getInt("telefono") == 0) {
@@ -243,5 +220,74 @@ public class Cli {
     }
   }
   
+  /**
+   * 
+   * Muestra los números de aulas que hay registrados
+   */
+  private void mostrarAulas () {
+    sQuery = "SELECT numero FROM Aula";
+    
+    try {
+      con = new Conexion().connection();
+      s = con.createStatement();
+      rs = s.executeQuery(sQuery);
+      
+      while(rs!=null && rs.next())
+      {
+        System.out.println("Salón " + rs.getString("numero"));
+        System.out.println("____________________________________________________");
+      }
+    } catch (SQLException | ClassNotFoundException ex) {
+      Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, ex);
+    } finally {
+      try {
+        con.close();
+      } catch (SQLException ex) {
+        Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, ex);
+      }
+    }
+  }
+  
+  private int obtenerIDProfe (String nombre) {
+    sQuery = "SELECT idProfesor FROM Profesor where nombre = \"" + nombre + "\";";
+    try {
+      con = new Conexion().connection();
+      s = con.createStatement();
+      rs = s.executeQuery(sQuery);
+      if (rs.next()) {
+        return rs.getInt("idProfesor");
+      }
+    } catch (SQLException | ClassNotFoundException e) {
+      Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, e);
+    } finally {
+      try {
+        con.close();
+      } catch (SQLException ex1) {
+        Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, ex1);
+      }
+    }
+    return 0;
+  }
+  
+  private int obtenerIDAula (String nombre) {
+    sQuery = "SELECT idProfesor FROM Aula where nombre = \"" + nombre + "\";";
+    try {
+      con = new Conexion().connection();
+      s = con.createStatement();
+      rs = s.executeQuery(sQuery);
+      if (rs.next()) {
+        return rs.getInt("idAula");
+      }
+    } catch (SQLException | ClassNotFoundException e) {
+      Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, e);
+    } finally {
+      try {
+        con.close();
+      } catch (SQLException ex1) {
+        Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, ex1);
+      }
+    }
+    return 0;
+  }
 }
 
