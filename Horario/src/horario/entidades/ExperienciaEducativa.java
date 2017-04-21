@@ -5,11 +5,6 @@
  */
 package horario.entidades;
 
-import javafx.beans.property.IntegerProperty;
-import javafx.beans.property.SimpleIntegerProperty;
-import javafx.beans.property.SimpleStringProperty;
-import javafx.beans.property.StringProperty;
-
 /**
  *
  * @author andres
@@ -20,7 +15,6 @@ public class ExperienciaEducativa {
   private int creditos;
   private Aula[] aulas;
   private Dia[] dias;
-  private Horario[] horarios;
   private Profesor[] profesores;
   
   public ExperienciaEducativa(){}
@@ -31,7 +25,6 @@ public class ExperienciaEducativa {
     this.creditos = creditos;
     this.aulas = new Aula[10];
     this.dias = new Dia[5];
-    this.horarios = new Horario [50];
     this.profesores = new Profesor[10];
   }
   
@@ -73,14 +66,6 @@ public class ExperienciaEducativa {
   
   public Dia getDias (int indice) {
     return dias[indice];
-  }
-  
-  public void setHorarios (Horario horario, int indice) {
-    horarios[indice] = horario;
-  }
-  
-  public Horario getHorarios (int indice) {
-    return horarios[indice];
   }
   
   public void setProferores (Profesor profesor, int indice) {

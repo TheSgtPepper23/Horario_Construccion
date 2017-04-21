@@ -9,7 +9,7 @@ import horario.cli.Menu;
 
 /**
  *
- * @author andres
+ * @author José Andrés Domínguez González
  */
 public class Main {
   

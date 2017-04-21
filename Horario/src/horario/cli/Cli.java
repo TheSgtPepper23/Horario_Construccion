@@ -9,7 +9,6 @@ import java.sql.Connection;
 import horario.baseDatos.Conexion;
 import horario.entidades.Aula;
 import horario.entidades.ExperienciaEducativa;
-import horario.entidades.Horario;
 import horario.entidades.Profesor;
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -19,18 +18,24 @@ import java.util.logging.Logger;
 
 /**
  *
+ * Clase contenedora de los métodos ejecutados desde la clas Menu, además contiene métodos privados
+ * que se utilizan como utilidad por los demás métodos
  * @author José Andrés Domínguez González
  */
 public class Cli {
   private Profesor profesor;
-  private Horario horario;
   private Teclado teclado;
   private ExperienciaEducativa experiencia;
   private Aula aula;
   private Connection con;
   private String sQuery = "";
   private Statement s;
+  private String op;
   private ResultSet rs;
+  
+  public Cli () {
+    teclado = new Teclado();
+  }
   
   /**
    * Crea un nuevo objeto Profesor con datos leidos del usuario y lo agrega a la base de datos
@@ -38,7 +43,6 @@ public class Cli {
   public void agregarProfe () {
     
     profesor = new Profesor();
-    teclado = new Teclado();
     
     System.out.println("Nombre:");
     profesor.setNombre(teclado.leerString());
@@ -68,8 +72,8 @@ public class Cli {
   public void agregarEE () {
       
     experiencia = new ExperienciaEducativa();
-    teclado = new Teclado();
-    int idProfesor = 0, nrc, idAula;
+    
+    int nrc;
         
     System.out.println("Nombre: ");
     experiencia.setNombre(teclado.leerString());
@@ -78,6 +82,128 @@ public class Cli {
     experiencia.setNrc(nrc);
     System.out.println("Creditos: ");
     experiencia.setCreditos(teclado.leerEntero());
+    
+    sQuery = "INSERT INTO ExperienciaEducativa (nrc, nombre, creditos) values ("+ 
+        experiencia.getNrc() + ", \"" + experiencia.getNombre() + "\", " + 
+        experiencia.getCreditos()+");";
+      
+    realizaUpdate(sQuery);
+    
+    asignarProfesor(nrc);
+    
+    asignarAula(nrc);
+    
+    asignarDiaYHora(nrc);
+    
+  }
+  
+  /**
+   * 
+   * Relaciona el dia y la hora con la EE
+   * @param nrc nrc de la EE
+   */
+  private void asignarDiaYHora (int nrc) {
+    
+    String horaInicio, horaFin, day;
+    int dia;
+    
+    do{
+      System.out.println("Agregue un día(s/n)");
+      op = teclado.leerString();
+      if (op.equals("s")) {
+        mostrarDias();
+        System.out.println("Escoja un día");
+        dia = teclado.leerEntero();
+        
+        switch (dia) {
+          case 1:
+            day = "Lunes";
+            break;
+          case 2:
+            day = "Martes";
+            break;
+          case 3:
+            day = "Miércoles";
+            break;
+          case 4:
+            day = "Jueves";
+            break;
+          case 5:
+            day = "Viernes";
+            break;
+          default:
+            day = null;
+            break;
+        }
+        
+        System.out.println("Ingresa la hora de inicio:");
+        horaInicio = teclado.leerString();
+        System.out.println("Ingresa la hora de salida:");
+        horaFin = teclado.leerString();
+        
+        sQuery = "INSERT INTO Hora (horaInicio, horaFin, dia) values (\"" + horaInicio + "\", \"" +
+            horaFin + "\", \"" + day + "\");";
+        
+        realizaUpdate(sQuery);
+        
+        sQuery = "SELECT * FROM ExperienciaEducativa_has_Hora where ExperienciaEducativa_nrc = "
+            + nrc + ", AND Hora_idHora = " + obteneriDHora(day, horaInicio)+ ";";
+        
+         try {
+           con = new Conexion().connection();
+           s = con.createStatement();
+           rs = s.executeQuery(sQuery);
+           
+           if (rs.next()) {
+            sQuery = "INSERT INTO ExperienciaEducativa_has_hora (ExperienciaEducativa_nrc, Hora_idHora)"
+                + " values ();";
+             realizaUpdate(sQuery);
+           } else {
+             System.out.println("Lo sentimos esa hora ya está ocupada");
+           }
+         } catch (ClassNotFoundException | SQLException ex) {
+          Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, ex);
+        }
+      }
+    } while (op.equals("s"));
+  }
+  
+  /**
+   * 
+   * Regresa el id de un elemento guardado en la tabla hora
+   * @param dia El nombre del día
+   * @param inicio La hora de inicio
+   * @return EL id de la hora
+   */
+  private int obteneriDHora (String dia, String inicio) {
+    sQuery ="SELECT idHora FROM Hora where horaInicio = \"" + inicio + "\", AND dia = \"" + dia +"\";";
+    
+    try {
+      con = new Conexion().connection();
+      s = con.createStatement();
+      rs = s.executeQuery(sQuery);
+      
+      return rs.getInt("idHora");
+    } catch (ClassNotFoundException | SQLException ex) {
+      Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, ex);
+    } finally {
+      try {
+        con.close();
+      } catch (SQLException ex) {
+        Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, ex);
+      }
+    }
+    return 0;
+  }
+  
+  /**
+   * 
+   * Guarda la relación profesor-experiencia educativa en la base de datos
+   * @param nrc nrc de la EE
+   */
+  private void asignarProfesor (int nrc) {
+    int idProfesor;
+    
     System.out.println("¿Desea ver la lista de profesores? (s/n)");
     if (teclado.leerString().equals("s")) {
       mostrarProfesores();
@@ -88,6 +214,20 @@ public class Cli {
     }
     System.out.println("Profesor:");
     idProfesor = obtenerIDProfe(teclado.leerString());
+    
+    sQuery = "INSERT INTO ExperienciaEducativa_has_Profesor (ExperienciaEducativa_nrc, "
+        + "Profesor_idProfesor)values(" + nrc + ", " + idProfesor + ");";
+    
+    realizaUpdate(sQuery);
+  }
+  
+  /**
+   * 
+   * Guarda la relación aula-experiencia educativa en la base de datos
+   * @param nrc nrc de la EE
+   */
+  private void asignarAula (int nrc) {
+    String idAula;
     System.out.println("¿Desea ver la lista de salones? (s/n)");
     if (teclado.leerString().equals("s")) {
       mostrarAulas();
@@ -99,28 +239,25 @@ public class Cli {
     System.out.println("Aula: ");
     idAula = obtenerIDAula(teclado.leerString());
     
-    
-      
-    sQuery = "INSERT INTO ExperienciaEducativa (nrc, nombre, creditos) values ("+ 
-        experiencia.getNrc() + ", \"" + experiencia.getNombre() + "\", " + 
-        experiencia.getCreditos()+");";
-      
-    realizaUpdate(sQuery);
-    
-    sQuery = "INSERT INTO ExperienciaEducativa_has_Profesor (ExperienciaEducativa_nrc, "
-        + "Profesor_idProfesor)values(" + nrc + ", " + idProfesor + ");";
+    sQuery = "INSERT INTO aula_EE (Aula_idAula, ExperienciaEducativa_nrc"
+        + " values (" + idAula + ", " + nrc + ");";
     
     realizaUpdate(sQuery);
-    
-    sQuery = "INSERT INTO Aula_has_ExperienciaEducativa (Aula_idAula, ExperienciaEducativa_nrc"
-        + "values (" + idAula + nrc + ")";
+  }
+  
+  /**
+   * 
+   * Imprime los días de la semana 
+   */
+  private void mostrarDias () {
+    System.out.println("1.- Lunes\n2.- Martes\n 3.- Miércoles\n4.- Jueves\n5.- Viernes");
   }
   
   /**
    * Realiza un update en la base de datos con las consulta que se le pasa
    * @param query Consulta en sql
    */
-  public void realizaUpdate (String query) {
+  private void realizaUpdate (String query) {
     try {
       con = new Conexion().connection();
       s = con.createStatement();
@@ -148,31 +285,11 @@ public class Cli {
     }
     
     aula = new Aula();
-    teclado = new Teclado();
     
     System.out.println("Número:");
-    aula.setNumero(teclado.leerEntero());
+    aula.setNumero(teclado.leerString());
     
-    sQuery = "INSERT INTO Aula (numero) values(" + aula.getNumero() + ");";
-    
-    realizaUpdate(sQuery);
-  }
-  
-  /**
-   * Agrega un objeto del tipo Horario con datos del usuario y lo guarda en la base de datos
-   */
-  public void agregarHorario () {
-    
-    horario = new Horario();
-    teclado = new Teclado();
-    
-    System.out.println("Semestre:");
-    horario.setSemestre(teclado.leerEntero());
-    System.out.println("Carrera");
-    horario.setCarrera(teclado.leerString());  
-    
-    sQuery = "INSERT INTO Horario (semestre, carrera ) values (" + horario.getSemestre() + ", \"" + 
-        horario.getCarrera() + "\");";
+    sQuery = "INSERT INTO Aula (nombre) values(\"" + aula.getNumero() + "\");";
     
     realizaUpdate(sQuery);
   }
@@ -198,7 +315,7 @@ public class Cli {
         }
         else {
           System.out.println("Nombre: "+ rs.getString("nombre") + " " + 
-              rs.getString("apellidoPaterno") + " " + rs.getString("apellido Materno"));
+              rs.getString("apellidoPaterno") + " " + rs.getString("apellidoMaterno"));
         }
         System.out.println("Correo Electrónico: " + rs.getString("correoE"));
         if (rs.getInt("telefono") == 0) {
@@ -225,7 +342,7 @@ public class Cli {
    * Muestra los números de aulas que hay registrados
    */
   private void mostrarAulas () {
-    sQuery = "SELECT numero FROM Aula";
+    sQuery = "SELECT nombre FROM Aula;";
     
     try {
       con = new Conexion().connection();
@@ -234,7 +351,7 @@ public class Cli {
       
       while(rs!=null && rs.next())
       {
-        System.out.println("Salón " + rs.getString("numero"));
+        System.out.println("Salón " + rs.getString("nombre"));
         System.out.println("____________________________________________________");
       }
     } catch (SQLException | ClassNotFoundException ex) {
@@ -248,6 +365,12 @@ public class Cli {
     }
   }
   
+  /**
+   * 
+   * Regresa el id relacionado con el nombre del profesor
+   * @param nombre Nombre del profesor
+   * @return El id relacionado con el profesor
+   */
   private int obtenerIDProfe (String nombre) {
     sQuery = "SELECT idProfesor FROM Profesor where nombre = \"" + nombre + "\";";
     try {
@@ -269,14 +392,20 @@ public class Cli {
     return 0;
   }
   
-  private int obtenerIDAula (String nombre) {
-    sQuery = "SELECT idProfesor FROM Aula where nombre = \"" + nombre + "\";";
+  /**
+   * 
+   * Regresa el id relacionado con el nombre del aula
+   * @param nombre Nombre del aula
+   * @return El id relacionado con el aula
+   */
+  private String obtenerIDAula (String nombre) {
+    sQuery = "SELECT idAula FROM Aula where nombre = \"" + nombre + "\";";
     try {
       con = new Conexion().connection();
       s = con.createStatement();
       rs = s.executeQuery(sQuery);
       if (rs.next()) {
-        return rs.getInt("idAula");
+        return rs.getString("idAula");
       }
     } catch (SQLException | ClassNotFoundException e) {
       Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, e);
@@ -287,7 +416,7 @@ public class Cli {
         Logger.getLogger(Cli.class.getName()).log(Level.SEVERE, null, ex1);
       }
     }
-    return 0;
+    return null;
   }
 }
 

@@ -11,21 +11,21 @@ package horario.entidades;
  */
 public class Aula {
   
-  private int numero;
+  private String numero;
   private ExperienciaEducativa [] experiencias;
   
   public Aula () {}
   
-  public Aula (int numero) {
+  public Aula (String numero) {
     this.numero = numero;
     experiencias = new ExperienciaEducativa[20];
   }
   
-  public void setNumero (int numero) {
+  public void setNumero (String numero) {
     this.numero = numero;
   }
   
-  public int getNumero () {
+  public String getNumero () {
     return numero;
   }
   

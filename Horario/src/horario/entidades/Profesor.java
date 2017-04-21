@@ -6,7 +6,7 @@
 package horario.entidades;
 /**
  *
- * @author andres
+ * @author José Andrés Domínguez González
  */
 public class Profesor {
   
