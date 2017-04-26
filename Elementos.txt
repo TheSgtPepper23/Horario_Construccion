@@ -1,9 +1,0 @@
-Clases
-    Experiencia educativa
-    Perosna
-        Alumno
-        Profesor
-    Salón de clases
-    
-
-    

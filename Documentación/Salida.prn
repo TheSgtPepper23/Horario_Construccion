@@ -1,0 +1,7638 @@
+%!PS-Adobe-3.0
+%cupsJobTicket: media=A4
+%cupsJobTicket: sides=one-sided
+%cupsJobTicket: AP_D_InputSlot=
+%%Creator: Wine PostScript Driver
+%%Title: Modelos_Horario
+%%BoundingBox: 18 18 576 823
+%%Pages: (atend)
+%%Orientation: Portrait
+%%EndComments
+%%BeginProlog
+/tmpmtrx matrix def
+/hatch {
+  pathbbox
+  /b exch def /r exch def /t exch def /l exch def /gap 32 def
+  l cvi gap idiv gap mul
+  gap
+  r cvi gap idiv gap mul
+  {t moveto 0 b t sub rlineto}
+  for
+} bind def
+/B {pop pop pop pop} def
+/N {newpath} def
+/havetype42gdir {version cvi 2015 ge} bind def
+%%EndProlog
+%%BeginSetup
+mark {
+%%BeginFeature: *PageSize A4
+<</PageSize[595 842]/ImagingBBox null>>setpagedevice
+%%EndFeature
+} stopped cleartomark
+mark {
+%%BeginFeature: *Duplex None
+<</Duplex false>>setpagedevice
+%%EndFeature
+} stopped cleartomark
+%%EndSetup
+%%Page: 1 1
+%%BeginPageSetup
+/pgsave save def
+72 300 div 72 300 div scale
+75 3433 translate
+1 -1 scale
+0 rotate
+%%EndPageSetup
+0.00 0.00 0.00 setrgbcolor
+0 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+0 0 moveto
+2328 0 rlineto
+0 3354 rlineto
+-2328 0 rlineto
+closepath
+gsave
+1.00 1.00 1.00 setrgbcolor
+fill
+grestore
+stroke
+0.75 0.75 0.75 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+960 510 moveto
+408 0 rlineto
+0 498 rlineto
+-408 0 rlineto
+closepath
+gsave
+0.75 0.75 0.75 setrgbcolor
+fill
+grestore
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+951 501 moveto
+408 0 rlineto
+0 498 rlineto
+-408 0 rlineto
+closepath
+gsave
+0.98 0.95 0.89 setrgbcolor
+fill
+grestore
+stroke
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+957 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.89 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+25 dict begin
+ /FontName /ArialMT def
+ /Encoding 256 array 0 1 255{1 index exch /.notdef put} for def
+ /PaintType 0 def
+ /FontMatrix [1 2048 div 0 0 1 2048 div 0 0] def
+ /FontBBox [-1361 -665 4096 2060] def
+ /FontType 1 def
+ /Private 7 dict begin
+  /RD {string currentfile exch readhexstring pop} def
+  /ND {def} def
+  /NP {put} def
+  /MinFeature {16 16} def
+  /BlueValues [] def
+  /password 5839 def
+  /lenIV -1 def
+ currentdict end def
+ currentdict dup /Private get begin
+  /CharStrings 256 dict begin
+   /.notdef 4 RD 8b8b0d0e ND
+  currentdict end put
+ end
+currentdict end dup /FontName get exch definefont pop
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+960 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.89 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+963 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.89 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+966 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+969 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+972 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+975 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+978 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+981 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+984 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+987 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+990 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+993 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+996 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+999 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.91 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1002 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.91 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1005 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.91 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1008 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1011 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1014 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1017 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1020 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1023 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1026 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1029 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1032 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1035 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1038 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1041 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1044 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1047 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1050 507 moveto
+6 0 rlineto
+0 486 rlineto
+-6 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1056 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1059 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1062 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1065 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1068 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1071 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1074 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1077 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1080 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1083 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1086 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1089 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1092 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1095 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1098 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1101 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1104 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1107 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1110 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1113 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.96 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1116 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.96 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1119 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1122 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1125 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1128 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1131 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1134 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1137 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1140 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1143 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1146 507 moveto
+3 0 rlineto
+0 486 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1149 507 moveto
+6 0 rlineto
+0 486 rlineto
+-6 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+0.00 0.00 0.00 setrgbcolor
+25 dict begin
+ /FontName /Arial-BoldMT def
+ /Encoding 256 array 0 1 255{1 index exch /.notdef put} for def
+ /PaintType 0 def
+ /FontMatrix [1 2048 div 0 0 1 2048 div 0 0] def
+ /FontBBox [-1286 -771 4096 2084] def
+ /FontType 1 def
+ /Private 7 dict begin
+  /RD {string currentfile exch readhexstring pop} def
+  /ND {def} def
+  /NP {put} def
+  /MinFeature {16 16} def
+  /BlueValues [] def
+  /password 5839 def
+  /lenIV -1 def
+ currentdict end def
+ currentdict dup /Private get begin
+  /CharStrings 256 dict begin
+   /.notdef 4 RD 8b8b0d0e ND
+  currentdict end put
+ end
+currentdict end dup /FontName get exch definefont pop
+/Arial-BoldMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1092 555 moveto
+%%glyph 0033
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/P 144 RD
+f729ff000005560d8b8b158bff000005
+ba05f86f8b05f7488bf70984c27c08df
+75d15bc44208c441a72c8bfb09088b31
+7b3f6a4e086a4e625b59680858685873
+578008447d2584fb1a8b08fb558b058b
+fcbd05098bff000004c2158bfc3405f7
+368b05f7098bd993b29a08b29aaaa3a2
+ac08a1ac96b18bb6088bc07bb76cae08
+6cae63a05b94086892448e208b08090e
+ND
+end end
+/P glyphshow
+%%glyph 0055
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/r 82 RD
+f71bf9b10df7ad8b15fbad8b058bfaba
+05f7998b058bfb2b05b8d2b3baafa208
+aea2b496b88b08cb8bc979c6680834fb
+89055caa5f9a628b08648b6980707608
+707575647c52087b5283fb0a8bfb4908
+090e
+ND
+end end
+/r glyphshow
+%%glyph 0052
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/o 153 RD
+ddff000004e30d8bf8b6158be8a2e6b9
+e208b9e2cccee0b908dfb9e9a2f38b08
+f7358bf71757f22308f222befb188bfb
+33088bfb3557fb192422082321fb1757
+fb318a082a8c2ea133b60832b748cc5d
+e0085de074f28bf70e0809f7b47c158b
+22a43abd5308bd53c96fd48b08d48bc9
+a7bdc308bcc3a4dc8bf6088bf372db5a
+c30859c34da7428b08428b4d6f595308
+5953723a8b2208090e
+ND
+end end
+/o glyphshow
+%%glyph 0049
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/f 101 RD
+a3f93e0d8bfaba15f7308b058bdb058b
+e495ce9eb7089eb7aeafbea708bea6cb
+99d98b08db8bd97fd8730865fb58055e
+966090628b08628b6e827a7808797882
+668b55088b4005f7668b058bfb7105fb
+668b058bfddd05fbad8b058bf9dd05fb
+308b05090e
+ND
+end end
+/f glyphshow
+%%glyph 0048
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/e 153 RD
+ccff000004730df94df7e615f7ac5c05
+6724523d3e56083d552a71fb098a08fb
+4d8cfb1cc632f70d0845ec68f70e8bf7
+27088bf744b9f71ee7ef08e7eef708bd
+f7218b08f7328bf71157e62308e622b7
+fb3487fb6b08fd548b058d38a24ab65d
+08b65cc174cc8b08b78bb097a9a308a9
+a3a2b29ac008099bf7b01589dc76c963
+b60863b55aa0528b084e8b5875635e08
+635e774f8c3e08090e
+ND
+end end
+/e glyphshow
+%%glyph 0056
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/s 201 RD
+bbff000004730d8bf7c315f7aeb60597
+54a362b06f08b06ebe7dcd8b08d48bc1
+98b0a608a49e97a48baa088ba0849d7e
+99087d986c985a9608fb77bdfb23b94e
+b40837c461db8bf1088be7afd8d4ca08
+d4caf704aaf72d8b08f7258bf70073d2
+5c08d25cbb45a62e08fb9d5a0580b475
+ab6ca1086ba15e96508b08418b56816b
+7608767c80788b74088b77947a9e7d08
+a478e371f72a6908f72969f461c65a08
+c659a8458b32088b2a62373a45083a45
+fb0d69fb338a08fb258cfb06a737c608
+36c654da71f008090e
+ND
+end end
+/s glyphshow
+/o glyphshow
+/r glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+951 582 moveto
+1356 582 lineto
+stroke
+grestore
+0.54 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+966 621 moveto
+%%glyph 0010
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/hyphen 22 RD
+ccf93e0d8bf84c158bf74905f8bd8b05
+8bfb4905090e
+ND
+end end
+/hyphen glyphshow
+%%glyph 0003
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/space 5 RD
+8bf8cd0d0e
+ND
+end end
+/space glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1017 621 moveto
+%%glyph 0051
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/n 115 RD
+f71bff000004730d8b8b158bfaba05f7
+368b058bfb2b05d9f709f705c5f7278b
+08cb8bc680c17408c074b36ca66608a6
+669d5e965808926a8e508b38088bfd21
+05fb488b058bf91a058bd484c27db008
+7daf72a868a10867a061965b8b083e8b
+4973545a08535a6f2f8bfb1c088bfcd8
+05090e
+ND
+end end
+/n glyphshow
+%%glyph 0052
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/o 155 RD
+cfff000004730d8bf8a7158bf759c2f7
+25f701ea08e6daf704b2f7178b08f726
+8bf70b5be82c08e82bb9fb188bfb3d08
+8bfb1d7720623d08623c4f4e3d60083c
+6036762e8a08fb298cfb0cba30ea082f
+ea5df71e8bf7470809f74d8b158bfb1c
+a925c64808c647d669e58b08e48bd6ad
+c6cf08c6cfa9f38bf71f088bf7176def
+50cf084fce41ad328b08318b40695048
+0850486d258bfb1c08090e
+ND
+end end
+/o glyphshow
+%%glyph 0050
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/m 177 RD
+f71bff000006aa0d8b8b158bfaba05f7
+358b058bfb2905acbfb8b5c2ab08c2aa
+ca9bd28b08da8bcb7bbe6a08bd6aae5e
+a05008dff710f701c9f71b8b08f48bdc
+6ec45108c450a7318bfb0d088bfd6d05
+fb478b058bf931058bd385bf80ab087f
+aa76a56c9e086c9e6795628b08408b4d
+725a5a085a59723b8bfb01088bfcfd05
+fb488b058bf946058bdb7cc76eb3086e
+b35b9f488b08588b5d7e60700860706b
+64785808785881418b2a088bfcbb0509
+0e
+ND
+end end
+/m glyphshow
+%%glyph 0045
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/b 160 RD
+f71aff000004730df73b8b15fb3b8b05
+8bff000005ba05f7488b058bfc9f05d7
+eaecbbf70a8b08cc8bc97ec67108c570
+bb66b15c08b05ba951a04808a0489643
+8b3e088bfb4a5efb213128083128fb00
+5afb128a08fb118c28be44f4080989f8
+2a158bfb139c2fae5208c42ed75dec8b
+08da8bcfadc4d008c4cfa8f18bf71b08
+8bf71f70f154cd0854cd48ac3d8b083c
+8b476952470852466e288bfb1508090e
+ND
+end end
+/b glyphshow
+%%glyph 0055
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/r 79 RD
+f719f93e0d8b8b158bfaba05f7368b05
+8bfb3505b4d6b2bdaea308aea3b197b5
+8b08c88bc878ca64084dfb3b055fa55f
+985f8b08648b677f6c74086c73746a7e
+6108774b81458b3f088bfcc005090e
+ND
+end end
+/r glyphshow
+%%glyph 0048
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/e 166 RD
+d6ff000004730df9a7f7ea15f74e7405
+6efb0154373c4f083c4f256efb0f8a08
+fb2f8cfb0fba30eb0830ea5df71a8bf7
+41088bf747b9f71ee7ee08e7eef70bbc
+f7278b08f7228bf7085be52a08e52ab8
+fb1c8bfb43088b808b7b8a7608fdac8b
+0592fb09ac32c64d08c64dd56ce48b08
+cd8bc39cbaae08baaeb0c2a6d70809fc
+e3f7b715f8e58b0583e474ce66b80852
+d040ae308b08388b466f53540852546c
+41852e08090e
+ND
+end end
+/e glyphshow
+%%glyph 001d
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/colon 41 RD
+f74df8cd0d8bf9ed158bf76105f7618b
+058bfb610509fb61fded158bf76105f7
+618b058bfb6105090e
+ND
+end end
+/colon glyphshow
+/space glyphshow
+/space glyphshow
+%%glyph 0036
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/S 262 RD
+e7ff000005560d8bf86b15f74b9b0594
+429f4fab5c08aa5cbc65ce6e08ce6ed6
+7cde8b08d58bcc96c4a108c4a1b5a9a7
+b208a6b199b58bb8088bb97eb370ae08
+70ad5fa84ea208649a34a3fb1bac08fb
+1bab2da955a80845b057b869c20868c1
+7ac88bce088bd5a0d0b5cc08b5cbc8bc
+dcac08dcace49cee8b08f7018beb7ade
+6808de68ca57b84708b847a33e8e3508
+fb4e7d0581e869d152ba0851ba36a3fb
+058b08fb098b3576566008556070578b
+4e088b569e60b16908b069ed68f73268
+08f73167f7006cc67008e064ca59b44f
+08b44e9f468b3c088b3d75425e46085e
+464b5538650837652d78228a08fb198c
+fb039e32b10831b245c558d90858d870
+e388ed08090e
+ND
+end end
+/S glyphshow
+%%glyph 0057
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/t 117 RD
+aff8cd0df880f73515a5fb330558815e
+86638a084a8c5895679f0867a072a67c
+ad087cac84d28bf700088bf8f705fb18
+8b058bf72005f7188b058bf79b05f747
+f700058bfc0705f7498b058bfb2005fb
+498b058bfd01058b588e6a927c08917c
+95809a820899829f87a68b089f8ba58d
+ac9008090e
+ND
+end end
+/t glyphshow
+/r glyphshow
+%%glyph 004c
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/i 47 RD
+f71cf85b0d8bff000004eb158bf76305
+f7488b058bfb630509fb48fffffffb15
+158bfaba05f7488b058bfeba05090e
+ND
+end end
+/i glyphshow
+/n glyphshow
+%%glyph 004a
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/g 224 RD
+cdff000004730daf3315f74371059256
+a063ac7208b86ac87bd88a08de8ccc9c
+b8ac08b8acaaba9bc60894b090d88af7
+09083c2e295dfb098b08fb268bfb05c0
+3bf4083bf463f7138bf727088bf09de9
+b0e108b0e0c0cdd1ba08d0badda2e98b
+08f7118bf358dc26088bf71405f73a8b
+058bfe2a058bfb397afb096a46086946
+565542630842633177208a08fb138c25
+a73dc4083dc465e18ef7060809f729f9
+12158bfb1fa725c24b08c24bd16bde8b
+08de8bd0abc3cb08c3caa7ef8bf71c08
+8bf7166eed52cd0851cd45ac3a8b083b
+8b476b534a08534a6f2a8bfb1408090e
+ND
+end end
+/g glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+966 660 moveto
+/hyphen glyphshow
+/space glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1017 660 moveto
+%%glyph 0044
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/a 266 RD
+d5ff000004730df986f7171548524b63
+4e74084d744980448a08fb098c32a74c
+c4084cc46cd38be4088bbf97bba3b608
+a2b6aaadb2a508b1a5b69fbb9808ae94
+c194d29408f7259cf6a0d0a3088ca48b
+9a8b92088bd47abf69a9085db4479f30
+8b08368b4d7c636e08626d6d56784008
+fb44a3059bd6a5c8b0ba08b0b9c0afd0
+a408d0a4dc97e68b08e68bd480c47608
+c476b470a66b08a66a9d62965a08916c
+8e548b3b088bfb84058bfb3b8f21935f
+08925e9a61a26208fb508b0578b07fb7
+86bd08097cf826154a702975fb177808
+4180577f6c7e086c7e74777a72087a71
+836e8b6c088b5b9d63b06b08af6bc07b
+d18b08d08bc99ac1aa08c1a9b3b4a4c0
+089eb495c78bda08090e
+ND
+end end
+/a glyphshow
+%%glyph 0053
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/p 169 RD
+f71bff000004730d8bfc2b158bff0000
+05bd05f7388b058bfb1e05b2c1b6b4bc
+a608bca6c698d08b08e68bdb74d05c08
+d05cc04aae3608ae369d2d8b26088bfb
+01782a64340864345248415d08405d3d
+74398a084f8c55975ca4085ba464ab6c
+b2088bfc9905097afa38158bfb1da726
+c24a08c24ace6ada8b08db8bd0adc4cf
+08c4cea7f48bf722088bf71b6ff154ce
+0853ce48ad3e8b083e8b486750440850
+436d238bfb1d08090e
+ND
+end end
+/p glyphshow
+/e glyphshow
+%%glyph 004f
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/l 28 RD
+f717f85b0d8b8b158bff000005ba05f7
+488b058bfffffffa4605090e
+ND
+end end
+/l glyphshow
+/l glyphshow
+/i glyphshow
+%%glyph 0047
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/d 163 RD
+d1ff000004730df9868b158bf71a0548
+222857fb178a08368c3ea244b90844ba
+54cc64df0864de77eb8bf701088bf59d
+ebaee208aee1c0cdd2b908d2b9daa2e2
+8b08cb8bc47ebd7008bd70b467aa6008
+8bf8a205f7478b058bfffffffa460509
+fd74f8a6158bfb1ca825c44808c448cf
+69d98b08da8bceabc2cc08c2cba6ed8b
+f718088bf7256ff653cf0853cf46ad39
+8b083b8b486a564a08554a70248bfb21
+08090e
+ND
+end end
+/d glyphshow
+/o glyphshow
+%%glyph 0033
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/P 126 RD
+f732ff000005560d8b8b158bff000005
+ba05f8bd8b05ec8bd686be8208d37fc7
+74bc6a08bc69b25ca94e08a84e9a498b
+42088bfb1163223c35083c34fb2460fb
+638b08fc0c8b058bfce805098bf99515
+f80f8b05f7118be4a2c0ba08c0baa5cc
+8be0088bc87cc06cb7086cb662a85899
+086a944f8f338b08fc0b8b05090e
+ND
+end end
+/P glyphshow
+/a glyphshow
+/t glyphshow
+/e glyphshow
+/r glyphshow
+/n glyphshow
+/o glyphshow
+/colon glyphshow
+/space glyphshow
+/space glyphshow
+/S glyphshow
+/t glyphshow
+/r glyphshow
+/i glyphshow
+/n glyphshow
+/g glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+966 699 moveto
+/hyphen glyphshow
+/space glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1017 699 moveto
+/a glyphshow
+/p glyphshow
+/e glyphshow
+/l glyphshow
+/l glyphshow
+/i glyphshow
+/d glyphshow
+/o glyphshow
+%%glyph 0030
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/M 97 RD
+f72cff000006aa0d8b8b158bff000005
+ba05f7b88b05f7effea205ab2aa2439a
+5b089cc0a5daaef208f7f3fa9005f799
+8b058bfffffffa4605fb4f8b058bff00
+0004cb05fc3efffffffb3505fb438b05
+fc3cff000004e0058bfffffffb200509
+0e
+ND
+end end
+/M glyphshow
+/a glyphshow
+/t glyphshow
+/e glyphshow
+/r glyphshow
+/n glyphshow
+/o glyphshow
+/colon glyphshow
+/space glyphshow
+/space glyphshow
+/S glyphshow
+/t glyphshow
+/r glyphshow
+/i glyphshow
+/n glyphshow
+/g glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+966 738 moveto
+/hyphen glyphshow
+/space glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1017 738 moveto
+%%glyph 0046
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/c 148 RD
+dbfa940df980f81915f745740578fb0e
+592c3c46083b462969fb088a08fb258c
+fb09ba33ea0832ea5ff71c8bf745088b
+f7079eefb1e108b1e1c5ccd9b608d8b6
+e0a0e68b08f7078bea6ed45108d450ba
+38a02008fb4370057ad26ec161af0860
+af589d4f8b08308b426b524a08524a6f
+248bfb21088bfb23a624c24a08c24ad2
+6be38b08d28bc6a1bab608bab6a9ce98
+e508090e
+ND
+end end
+/c glyphshow
+/o glyphshow
+/r glyphshow
+/r glyphshow
+/e glyphshow
+/o glyphshow
+%%glyph 0028
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/E 60 RD
+f736ff000005560d8b8b158bff000005
+ba05fab88b058bfb4105fdf68b058bfc
+5505f9bf8b058bfb4005fdbf8b058bfc
+8705fa188b058bfb4105090e
+ND
+end end
+/E glyphshow
+/colon glyphshow
+/space glyphshow
+/space glyphshow
+/S glyphshow
+/t glyphshow
+/r glyphshow
+/i glyphshow
+/n glyphshow
+/g glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+966 777 moveto
+/hyphen glyphshow
+/space glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1017 777 moveto
+/t glyphshow
+/e glyphshow
+/l glyphshow
+/e glyphshow
+%%glyph 0049
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/f 102 RD
+9ef8cd0df7338b158bfa2e05fb338b05
+8bf72005f7338b058bf705058bd291c0
+98ae089cbaaab1b7a808b6a8c899da8b
+08be8bc385c87f0870fb31056692678e
+6a8b08548b657f7474087474805f8b4b
+088b2905f7638b058bfb2005fb638b05
+8bfe2e05090e
+ND
+end end
+/f glyphshow
+/o glyphshow
+/n glyphshow
+/o glyphshow
+/colon glyphshow
+/space glyphshow
+/space glyphshow
+/i glyphshow
+/n glyphshow
+/t glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+966 816 moveto
+/hyphen glyphshow
+/space glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1017 816 moveto
+/n glyphshow
+%%glyph 0058
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/u 122 RD
+f717ff000004730df9508b158bf73005
+38fb0cfb0450fb228a084c8c519755a2
+0854a363a971b00870af79b780c00884
+ae87c38bd8088bf92605f7488b058bfc
+e1058b2d8f4c926a08965ca366b07008
+b070b87dc18b08c18bbe99baa708baa6
+adb19fbb089eba95d08be6088bf8cd05
+f7488b058bfeba05090e
+ND
+end end
+/u glyphshow
+/m glyphshow
+/e glyphshow
+/r glyphshow
+/o glyphshow
+%%glyph 0027
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/D 158 RD
+f732ff000005c70d8b8b158bff000005
+ba05f88d8b05f7068be284c77d08df78
+d368c65808d84ac537b22608b1259efb
+088bfb17088bfb037e2871350871356a
+4462530862525f5f5b6b085a6a517347
+7a08467a3d83328b0809fbe3f74115f7
+cd8b05ec8bd794c29d08c29db6a4acac
+08b9b9afc9a5d908a4d898e98bf70308
+8bf72d72f70a59de0858dd4ec243a708
+579f3795fb078b08fbc88b05090e
+ND
+end end
+/D glyphshow
+/e glyphshow
+/P glyphshow
+/e glyphshow
+/r glyphshow
+%%glyph 0056
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/s 239 RD
+cafa940d8bf7d115f746a7059544a754
+b96508b865cb78dd8b08de8bc89cb3ad
+08b3ac9fb38bb8088bb479ab68a20872
+9b4e9f29a408fb18ac30a858a40858a3
+64ad71b60870b67eba8bbf088bba96b7
+a1b408a0b3a9acb0a608a7a0b19cbc9a
+08bb99bf92c28b08de8bd57fca7308ca
+73b96ba96208a962a054964608fb4473
+0583c274b565aa0864aa559a458b0838
+8b507d6870086870796b8b66088b7492
+769a78089a78a27baa7e089d84c07ce3
+7308f71369e46fbe7608bd75b26ba862
+08a86299578b4e088b4f7a5368560868
+565862496e08496e407d388a08fb1e8c
+22a743c40842c45de077f70508090e
+ND
+end end
+/s glyphshow
+/o glyphshow
+/n glyphshow
+/a glyphshow
+/l glyphshow
+/colon glyphshow
+/space glyphshow
+/space glyphshow
+/i glyphshow
+/n glyphshow
+/t glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+951 855 moveto
+1359 855 lineto
+stroke
+grestore
+0.00 0.25 0.25 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+966 894 moveto
+%%glyph 000e
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/plus 59 RD
+f706ff000004ac0df823f781158bf826
+05fc238b058bf73c05f8238b058bf823
+05f73e8b058bfc2305f8238b058bfb3c
+05fc238b058bfc2605090e
+ND
+end end
+/plus glyphshow
+/space glyphshow
+grestore
+0.00 0.25 0.25 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1017 894 moveto
+/a glyphshow
+/g glyphshow
+/r glyphshow
+/e glyphshow
+/g glyphshow
+/a glyphshow
+/r glyphshow
+%%glyph 000b
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/parenleft 93 RD
+f710f93e0df7f7fc431528f71237f727
+46f73b0846f73c69f7428bf748088bf7
+33a5f72cbef72508c7f73de8f73cf711
+f73b08f7158b053afb1f562871500862
+2f6b2b7427086efb117dfb118bfb1208
+8bfbd5effbd3f75bfbd508090e
+ND
+end end
+/parenleft glyphshow
+%%glyph 000c
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/parenright 97 RD
+f710f93e0df715fc4315fb158b05f75b
+f7d5eff7d38bf7d5088bf7117df7116e
+f70f0874ef6ceb62e70871c755ef3af7
+2008f7158b05f711fb3be8fb3cc7fb3d
+08befb25a5fb2c8bfb33088bfb4869fb
+4246fb3c0846fb3b37fb2728fb120809
+0e
+ND
+end end
+/parenright glyphshow
+/space glyphshow
+/colon glyphshow
+/space glyphshow
+%%glyph 0059
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/v 52 RD
+a5fa940df8288b15fc28faba05f7528b
+05f778fd1005a446a144a041089bc3a1
+cea8da08f780f91c05f74d8b05fc26fe
+ba05090e
+ND
+end end
+/v glyphshow
+/o glyphshow
+/i glyphshow
+/d glyphshow
+grestore
+0.00 0.25 0.25 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+966 933 moveto
+/plus glyphshow
+/space glyphshow
+grestore
+0.00 0.25 0.25 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1017 933 moveto
+/e glyphshow
+/d glyphshow
+/i glyphshow
+/t glyphshow
+/a glyphshow
+/r glyphshow
+/parenleft glyphshow
+/parenright glyphshow
+/space glyphshow
+/colon glyphshow
+/space glyphshow
+/v glyphshow
+/o glyphshow
+/i glyphshow
+/d glyphshow
+grestore
+0.00 0.25 0.25 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+966 972 moveto
+/plus glyphshow
+/space glyphshow
+grestore
+0.00 0.25 0.25 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1017 972 moveto
+/e glyphshow
+/l glyphshow
+/i glyphshow
+/m glyphshow
+/i glyphshow
+/n glyphshow
+/a glyphshow
+/r glyphshow
+/parenleft glyphshow
+/parenright glyphshow
+/space glyphshow
+/colon glyphshow
+/space glyphshow
+/v glyphshow
+/o glyphshow
+/i glyphshow
+/d glyphshow
+grestore
+0.75 0.75 0.75 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+369 1173 moveto
+291 0 rlineto
+0 342 rlineto
+-291 0 rlineto
+closepath
+gsave
+0.75 0.75 0.75 setrgbcolor
+fill
+grestore
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+360 1164 moveto
+291 0 rlineto
+0 342 rlineto
+-291 0 rlineto
+closepath
+gsave
+0.98 0.95 0.89 setrgbcolor
+fill
+grestore
+stroke
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+366 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.89 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+369 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.89 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+372 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+375 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+378 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+381 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+384 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+387 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+390 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+393 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+396 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.91 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+399 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.91 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+402 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+405 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+408 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+411 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+414 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+417 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+420 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+423 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+426 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+429 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+432 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+435 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+438 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+441 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+444 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+447 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+450 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+453 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+456 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+459 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+462 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+465 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+468 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+471 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+474 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.96 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+477 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.96 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+480 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+483 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+486 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+489 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+492 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+495 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+498 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+501 1170 moveto
+3 0 rlineto
+0 330 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+0.00 0.00 0.00 setrgbcolor
+/Arial-BoldMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+450 1218 moveto
+%%glyph 002b
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/H 63 RD
+f72aff000005c70d8b8b158bff000005
+ba05f7bc8b058bfcd505f8d88b058bf8
+d505f7bc8b058bfffffffa4605fbbc8b
+058bf91505fcd88b058bfd1505090e
+ND
+end end
+/H glyphshow
+/o glyphshow
+/r glyphshow
+%%glyph 0044
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/a 243 RD
+d4ff000004730df7b0f97615fb93b905
+a8f2bcd7d1bc08d1bcf3a4f71e8b08f7
+118be97cc86e08c86db765a45e08a45d
+97378bfb0e0888fbdc058b2e9046945f
+08945e9b5ca45808fbaa8b05849e82a6
+80b008869c88968990085b5c58685474
+08547451804d8a08fb018c35a84cc608
+4cc66bd68be6088bc799c1a8ba08a8ba
+b3afbfa408bea4d6a0ec9e08f717a4e6
+a2bea0088ba7058bc17eb270a20870a2
+5996418b08598b64816f78086f777468
+7a5a0809f80cfb7815677f527d3d7a08
+3d7a587b737b086671796a8b63088b64
+9a69a86e08a86eb17db88b08be8bbb9c
+b9ac08ada4a1aa96b00892a38fb98bce
+08090e
+ND
+end end
+/a glyphshow
+/r glyphshow
+%%glyph 004c
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/i 47 RD
+f727f8cd0d8bff000004b6158bf79805
+f7ad8b058bfb980509fbadfffffffb4a
+158bfaba05f7ad8b058bfeba05090e
+ND
+end end
+/i glyphshow
+/o glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+360 1245 moveto
+648 1245 lineto
+stroke
+grestore
+0.54 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+375 1284 moveto
+/hyphen glyphshow
+/space glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+426 1284 moveto
+/s glyphshow
+/e glyphshow
+/m glyphshow
+/e glyphshow
+/s glyphshow
+/t glyphshow
+/r glyphshow
+/e glyphshow
+/colon glyphshow
+/space glyphshow
+/space glyphshow
+/i glyphshow
+/n glyphshow
+/t glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+375 1323 moveto
+/hyphen glyphshow
+/space glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+426 1323 moveto
+/c glyphshow
+/a glyphshow
+/r glyphshow
+/r glyphshow
+/e glyphshow
+/r glyphshow
+/a glyphshow
+/colon glyphshow
+/space glyphshow
+/space glyphshow
+/S glyphshow
+/t glyphshow
+/r glyphshow
+/i glyphshow
+/n glyphshow
+/g glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+360 1362 moveto
+651 1362 lineto
+stroke
+grestore
+0.00 0.25 0.25 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+375 1401 moveto
+/plus glyphshow
+/space glyphshow
+grestore
+0.00 0.25 0.25 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+426 1401 moveto
+/a glyphshow
+/g glyphshow
+/r glyphshow
+/e glyphshow
+/g glyphshow
+/a glyphshow
+/r glyphshow
+/parenleft glyphshow
+/parenright glyphshow
+/space glyphshow
+/colon glyphshow
+/space glyphshow
+/v glyphshow
+/o glyphshow
+/i glyphshow
+/d glyphshow
+grestore
+0.00 0.25 0.25 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+375 1440 moveto
+/plus glyphshow
+/space glyphshow
+grestore
+0.00 0.25 0.25 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+426 1440 moveto
+/e glyphshow
+/d glyphshow
+/i glyphshow
+/t glyphshow
+/a glyphshow
+/r glyphshow
+/parenleft glyphshow
+/parenright glyphshow
+/space glyphshow
+/colon glyphshow
+/space glyphshow
+/v glyphshow
+/o glyphshow
+/i glyphshow
+/d glyphshow
+grestore
+0.00 0.25 0.25 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+375 1479 moveto
+/plus glyphshow
+/space glyphshow
+grestore
+0.00 0.25 0.25 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+426 1479 moveto
+/e glyphshow
+/l glyphshow
+/i glyphshow
+/m glyphshow
+/i glyphshow
+/n glyphshow
+/a glyphshow
+/r glyphshow
+/parenleft glyphshow
+/parenright glyphshow
+/space glyphshow
+/colon glyphshow
+/space glyphshow
+/v glyphshow
+/o glyphshow
+/i glyphshow
+/d glyphshow
+grestore
+0.75 0.75 0.75 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+993 1239 moveto
+348 0 rlineto
+0 210 rlineto
+-348 0 rlineto
+closepath
+gsave
+0.75 0.75 0.75 setrgbcolor
+fill
+grestore
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+984 1230 moveto
+348 0 rlineto
+0 210 rlineto
+-348 0 rlineto
+closepath
+gsave
+0.98 0.95 0.89 setrgbcolor
+fill
+grestore
+stroke
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+990 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.89 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+993 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.89 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+996 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+999 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1002 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1005 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1008 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1011 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1014 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1017 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1020 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1023 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1026 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1029 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1032 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1035 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1038 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1041 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1044 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1047 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1050 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1053 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1056 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1059 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1062 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1065 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1068 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1071 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1074 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1077 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1080 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1083 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1086 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1089 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1092 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1095 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1098 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1101 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1104 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1107 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1110 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1113 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1116 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1119 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1122 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1125 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1128 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1131 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1134 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1137 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1140 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1143 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1146 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1149 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1152 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1155 1236 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+0.00 0.00 0.00 setrgbcolor
+/Arial-BoldMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+996 1284 moveto
+%%glyph 0028
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/E 60 RD
+f729ff000005560d8b8b158bff000005
+ba05fad38b058bfb8c05fdab8b058bfb
+d905f9748b058bfb8b05fd748b058bfc
+2305f9c78b058bfb8b05090e
+ND
+end end
+/E glyphshow
+%%glyph 005b
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/x 64 RD
+97ff000004730d8b8b15f813f8b705fc
+03f89705f7eb8b05f750fbb805f75af7
+b805f7de8b05fbfcfc8b05f81dfcc305
+fbed8b05fb6cf7dd05fb6efbdd05090e
+ND
+end end
+/x glyphshow
+%%glyph 0053
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/p 157 RD
+f71fff000004e30d8bfaba15f79a8b05
+8bfb3005adc0b9b7c5ac08c5accb9cd2
+8b08f70f8bf45be12a08e12ab6fb1a8b
+fb41088bfb4560fb1e3429083428225b
+fb0f8a08508c56965ca2085ba259b356
+c4088bfcab05fbad8b0509f7aafa4d15
+8bfb0ba333ba5208ba52c56ecf8b08cc
+8bc2a5b6c008b6bfa1e18bf70b088bf7
+0375de5ec1085ec154a6498b08468b52
+715e56085e56743c8b2308090e
+ND
+end end
+/p glyphshow
+/e glyphshow
+/r glyphshow
+/i glyphshow
+/e glyphshow
+%%glyph 0051
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/n 124 RD
+f725ff000004e30dfa5c8b15fbad8b05
+8bf8b2058bf70785d57fad087fac78a5
+709e08709e6a94658b085a8b607e6470
+08647071687d5f087c5f843a8bfb0b08
+8bfc7505fbad8b058bfaba05f7998b05
+8bfb3005e8f70cf708c7f7218b08c98b
+c480be7508be74b26fa66808a5689d64
+965f08955f904c8b3908090e
+ND
+end end
+/n glyphshow
+%%glyph 0046
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/c 149 RD
+e0ff000004730dfa70f98015fba95905
+82c276b56aa7086aa76099568b08458b
+5373625b08615a763a8bfb05088bfb12
+a032b65708b557c471d28b08c08bb79a
+adaa08ada9a3bf99d508f7a85c056efb
+13542c3a4a083a4afb016cfb1d8a08fb
+2f8cfb10bb2fed082eed5df71c8bf741
+088bf743b9f71de8ed08e8ecf711bcf7
+328b08f7158bf26fd85408d753c236ac
+fb0608090e
+ND
+end end
+/c glyphshow
+/i glyphshow
+/a glyphshow
+/E glyphshow
+%%glyph 0047
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/d 150 RD
+dfff000004e30dfaa18b15fb998b058b
+f73005604e585e506e08506e4f7c4f8a
+08fb0e8c23bb34ee0834ed5ff71d8bf7
+44088bf748b5f71de0e908e0e8f6baf7
+158b08f70b8bf15ae228088bf8a405f7
+ad8b0509fd82fe24158bfb059b39aa58
+08b842cb66dc8b08cc8bc2a7b8c208b8
+c2a2dd8bf701088bf70e75e35fc1085f
+c053a6468b08488b54715e56085e5674
+3b8b2208090e
+ND
+end end
+/d glyphshow
+%%glyph 0058
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/u 121 RD
+f721ff000004e30df9558b158bf73305
+6452595f4c6a084c6b487b458a08448c
+4b9a52aa0852aa62b772c40872c47ed9
+8bef088bf93405f7ad8b058bfc7c058b
+fb29902f966a0895699e70a67808a677
+ae81b58b08bb8bb698b1a608b1a5a5ac
+99b20899b292ea8bf72c088bf85405f7
+ad8b058bfeba05090e
+ND
+end end
+/u glyphshow
+/c glyphshow
+/a glyphshow
+%%glyph 0057
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/t 119 RD
+aaf93e0df8effaba158bfb7405fb548b
+058bfc40058b348d598f7d088e7c947f
+98820898829a869e8b08a58bb194bc9d
+08a3fb6e054a70417d388a08588c5e93
+629c08629c6ea178a60878a67daf84b9
+0885ac88cd8bee088bf86305fb158b05
+8bf77405f7158b058bf76705f7aef738
+058bfc0b05090e
+ND
+end end
+/t glyphshow
+/i glyphshow
+%%glyph 0059
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/v 59 RD
+96ff000004730df8408b15fc40faba05
+f7bb8b05f75cfcb205c5fb49059ab995
+a98f9a0894a995a996a908f75ef8b205
+f7b58b05fc3afeba05090e
+ND
+end end
+/v glyphshow
+/a glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+984 1311 moveto
+1329 1311 lineto
+stroke
+grestore
+0.54 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+999 1350 moveto
+/hyphen glyphshow
+/space glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1050 1350 moveto
+/n glyphshow
+/r glyphshow
+/c glyphshow
+/colon glyphshow
+/space glyphshow
+/space glyphshow
+/i glyphshow
+/n glyphshow
+/t glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+999 1389 moveto
+/hyphen glyphshow
+/space glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1050 1389 moveto
+/n glyphshow
+/o glyphshow
+/m glyphshow
+/b glyphshow
+/r glyphshow
+/e glyphshow
+/colon glyphshow
+/space glyphshow
+/space glyphshow
+/S glyphshow
+/t glyphshow
+/r glyphshow
+/i glyphshow
+/n glyphshow
+/g glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+999 1428 moveto
+/hyphen glyphshow
+/space glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1050 1428 moveto
+/c glyphshow
+/r glyphshow
+/e glyphshow
+/d glyphshow
+/i glyphshow
+/t glyphshow
+/o glyphshow
+/s glyphshow
+/colon glyphshow
+/space glyphshow
+/space glyphshow
+/i glyphshow
+/n glyphshow
+/t glyphshow
+grestore
+0.75 0.75 0.75 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+384 1656 moveto
+270 0 rlineto
+0 210 rlineto
+-270 0 rlineto
+closepath
+gsave
+0.75 0.75 0.75 setrgbcolor
+fill
+grestore
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+375 1647 moveto
+270 0 rlineto
+0 210 rlineto
+-270 0 rlineto
+closepath
+gsave
+0.98 0.95 0.89 setrgbcolor
+fill
+grestore
+stroke
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+381 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.89 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+384 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.89 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+387 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+390 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+393 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+396 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+399 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+402 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+405 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+408 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+411 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+414 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+417 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+420 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+423 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+426 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+429 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+432 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+435 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+438 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+441 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+444 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+447 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+450 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+453 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+456 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+459 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+462 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+465 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+468 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+471 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+474 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+477 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+480 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+483 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+486 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+489 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+492 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+495 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+498 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+501 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+504 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+507 1653 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+0.00 0.00 0.00 setrgbcolor
+/Arial-BoldMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+477 1701 moveto
+%%glyph 0024
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/A 65 RD
+8bff000005c70dff000005bf8b15fbd6
+8b05fb14f7e105fcde8b05fb0dfbe105
+fbce8b05f8cfff000005ba05f7cd8b05
+09b5fe0a15fb5ef8b405fb5afcb40509
+0e
+ND
+end end
+/A glyphshow
+/u glyphshow
+%%glyph 004f
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/l 28 RD
+f727f8cd0d8b8b158bff000005ba05f7
+ad8b058bfffffffa4605090e
+ND
+end end
+/l glyphshow
+/a glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+375 1728 moveto
+642 1728 lineto
+stroke
+grestore
+0.54 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+390 1767 moveto
+/hyphen glyphshow
+/space glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+441 1767 moveto
+/n glyphshow
+/u glyphshow
+/m glyphshow
+/e glyphshow
+/r glyphshow
+/o glyphshow
+/colon glyphshow
+/space glyphshow
+/space glyphshow
+/i glyphshow
+/n glyphshow
+/t glyphshow
+grestore
+0.75 0.75 0.75 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+1683 1677 moveto
+294 0 rlineto
+0 210 rlineto
+-294 0 rlineto
+closepath
+gsave
+0.75 0.75 0.75 setrgbcolor
+fill
+grestore
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+1674 1668 moveto
+294 0 rlineto
+0 210 rlineto
+-294 0 rlineto
+closepath
+gsave
+0.98 0.95 0.89 setrgbcolor
+fill
+grestore
+stroke
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1680 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.89 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1683 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.89 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1686 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1689 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1692 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1695 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1698 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1701 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1704 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1707 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1710 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1713 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1716 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1719 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1722 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1725 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1728 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1731 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1734 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1737 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1740 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1743 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1746 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1749 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1752 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1755 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1758 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1761 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1764 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1767 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1770 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1773 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1776 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1779 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1782 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1785 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1788 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1791 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1794 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1797 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1800 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1803 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1806 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1809 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1812 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1815 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1818 1674 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+0.00 0.00 0.00 setrgbcolor
+/Arial-BoldMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1797 1722 moveto
+/d glyphshow
+/i glyphshow
+/a glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+1674 1749 moveto
+1965 1749 lineto
+stroke
+grestore
+0.54 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1689 1788 moveto
+/hyphen glyphshow
+/space glyphshow
+grestore
+0.54 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1740 1788 moveto
+/n glyphshow
+/o glyphshow
+/m glyphshow
+/b glyphshow
+/r glyphshow
+/e glyphshow
+/colon glyphshow
+/space glyphshow
+/space glyphshow
+/S glyphshow
+/t glyphshow
+/r glyphshow
+/i glyphshow
+/n glyphshow
+/g glyphshow
+grestore
+0.75 0.75 0.75 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+870 1869 moveto
+270 0 rlineto
+0 210 rlineto
+-270 0 rlineto
+closepath
+gsave
+0.75 0.75 0.75 setrgbcolor
+fill
+grestore
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+861 1860 moveto
+270 0 rlineto
+0 210 rlineto
+-270 0 rlineto
+closepath
+gsave
+0.98 0.95 0.89 setrgbcolor
+fill
+grestore
+stroke
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+867 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.89 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+870 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.89 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+873 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+876 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+879 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+882 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+885 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+888 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+891 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+894 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+897 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+900 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+903 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+906 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+909 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+912 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+915 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+918 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+921 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+924 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+927 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+930 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+933 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+936 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+939 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+942 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+945 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+948 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+951 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+954 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+957 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+960 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+963 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+966 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+969 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+972 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+975 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+978 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+981 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+984 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+987 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+990 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+993 1866 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+0.00 0.00 0.00 setrgbcolor
+/Arial-BoldMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+873 1914 moveto
+/A glyphshow
+/u glyphshow
+/l glyphshow
+/a glyphshow
+/E glyphshow
+/x glyphshow
+/p glyphshow
+/e glyphshow
+/r glyphshow
+/i glyphshow
+/e glyphshow
+/n glyphshow
+/c glyphshow
+/i glyphshow
+/a glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+861 1941 moveto
+1128 1941 lineto
+stroke
+grestore
+0.75 0.75 0.75 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+1284 1863 moveto
+270 0 rlineto
+0 210 rlineto
+-270 0 rlineto
+closepath
+gsave
+0.75 0.75 0.75 setrgbcolor
+fill
+grestore
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+1275 1854 moveto
+270 0 rlineto
+0 210 rlineto
+-270 0 rlineto
+closepath
+gsave
+0.98 0.95 0.89 setrgbcolor
+fill
+grestore
+stroke
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1281 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.89 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1284 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.89 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1287 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1290 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1293 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1296 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.90 0.86 0.80 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1299 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1302 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1305 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.87 0.81 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1308 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1311 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.91 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1314 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1317 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1320 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1323 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.92 0.88 0.82 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1326 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1329 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1332 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.83 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1335 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1338 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.93 0.89 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1341 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1344 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1347 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1350 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.94 0.90 0.84 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1353 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1356 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1359 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1362 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.85 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1365 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1368 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.95 0.91 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1371 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1374 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1377 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1380 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.92 0.86 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1383 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.96 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1386 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1389 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.87 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1392 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1395 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.97 0.93 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1398 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1401 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1404 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+gsave
+0 0 2328 3354 rectclip
+gsave
+1407 1860 moveto
+3 0 rlineto
+0 198 rlineto
+-3 0 rlineto
+closepath
+0.98 0.94 0.88 setrgbcolor
+fill
+grestore
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+grestore
+0.00 0.00 0.00 setrgbcolor
+/Arial-BoldMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1296 1908 moveto
+%%glyph 0027
+/Arial-BoldMT findfont dup
+/Private get begin
+/CharStrings get begin
+/D 162 RD
+f728ff000005c70d8bff000005ba15f8
+b18b05f70e8be882cb7808e172d55ec8
+4a08c84aba3cab2e08ab2d9bfb088bfb
+1d088bfb0d7c236d3408662057354749
+0858594564346f084a763381fb018b08
+fcc18b0509f7bcff000004c2158bfe5f
+05f7718b05de8bc690b09408bb97b39f
+aba808aaa8a5ba9fcd089fcc95e58bf7
+05088bf70581e277c80877c86fba67ad
+0867ad5da254970862943a90fb0d8b08
+090e
+ND
+end end
+/D glyphshow
+/i glyphshow
+/a glyphshow
+/E glyphshow
+/x glyphshow
+/p glyphshow
+/e glyphshow
+/r glyphshow
+/i glyphshow
+/e glyphshow
+/n glyphshow
+/c glyphshow
+/i glyphshow
+/a glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+1275 1935 moveto
+1542 1935 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+1314 1440 moveto
+1674 1674 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+1494 1557 moveto
+1491 1578 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1488 1590 moveto
+1485 1611 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1482 1623 moveto
+1476 1644 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1473 1656 moveto
+1470 1677 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1467 1689 moveto
+1464 1710 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1461 1722 moveto
+1455 1743 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1452 1755 moveto
+1449 1776 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1446 1788 moveto
+1443 1809 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1440 1821 moveto
+1434 1842 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1338 1482 moveto
+%%glyph 0014
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/one 61 RD
+f773ff000004730df8b08b15fb488b05
+8bff0000047b05606252614562084462
+4c6c5376088bf74205f0bae3c5d6ce08
+d6cec1cdaaca08f7088b05090e
+ND
+end end
+/one glyphshow
+%%glyph 0011
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/period 22 RD
+f74ef8cd0d8b8b158bf76105f7618b05
+8bfb6105090e
+ND
+end end
+/period glyphshow
+/period glyphshow
+%%glyph 000d
+/ArialMT findfont dup
+/Private get begin
+/CharStrings get begin
+/asterisk 104 RD
+cbf9b10d8bff000004ad15b9f72205f5
+66d86abb70087ef70d85de8ab808f725
+8b05894983387e2808d0aed9abe4a808
+b9fb2205366f38783a8208b468c44cd5
+3008fb0c360564c05ed256e6085a2d5f
+43665a08fb0ae005d8eac3caacaa0835
+9c399d3ea008090e
+ND
+end end
+/asterisk glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1617 1716 moveto
+/one glyphshow
+/period glyphshow
+/period glyphshow
+/asterisk glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+645 1746 moveto
+1017 1440 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+831 1593 moveto
+840 1614 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+843 1626 moveto
+852 1647 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+858 1659 moveto
+867 1680 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+873 1692 moveto
+882 1713 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+888 1725 moveto
+897 1746 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+903 1758 moveto
+912 1779 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+915 1791 moveto
+924 1812 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+930 1824 moveto
+939 1845 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+945 1857 moveto
+948 1860 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+654 1788 moveto
+/one glyphshow
+/period glyphshow
+/period glyphshow
+/asterisk glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1053 1482 moveto
+/one glyphshow
+/period glyphshow
+/period glyphshow
+/asterisk glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+984 1335 moveto
+651 1335 lineto
+stroke
+grestore
+%PolyPolygon
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+681 1320 moveto
+651 1335 lineto
+681 1350 lineto
+711 1335 lineto
+closepath
+gsave
+0.98 0.95 0.89 setrgbcolor
+eofill
+grestore
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+1155 999 moveto
+1155 1230 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1179 1041 moveto
+/one glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/ArialMT findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1179 1203 moveto
+/one glyphshow
+/period glyphshow
+/period glyphshow
+/asterisk glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+0 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+0 0 moveto
+2328 0 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+2328 0 moveto
+2328 3354 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+2328 3354 moveto
+0 3354 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+0 3354 moveto
+0 0 lineto
+stroke
+pgsave restore
+showpage
+%%Trailer
+%%Pages: 1
+%%EOF
